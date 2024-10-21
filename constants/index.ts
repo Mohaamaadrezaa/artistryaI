@@ -52,7 +52,7 @@ export const navLinks = [
         {
           label: "20 Free Credits",
           isIncluded: true,
-        },
+        }, 
         {
           label: "Basic Access to Services",
           isIncluded: true,
