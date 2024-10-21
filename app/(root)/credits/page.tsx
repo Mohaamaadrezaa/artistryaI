@@ -34,7 +34,7 @@ const Credits = async () => {
                 <p className="h1-semibold text-dark-600">${plan.price}</p>
                 <p className="p-16-regular">{plan.credits} Credits</p>
               </div>
-
+ 
               {/* Inclusions */}
               <ul className="flex flex-col gap-5 py-9">
                 {plan.inclusions.map((inclusion) => (
